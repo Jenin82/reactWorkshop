@@ -1,0 +1,10 @@
+.homeContainer{
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.homeContainer h1{
+	cursor: pointer;
+}
